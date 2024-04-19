@@ -6,6 +6,7 @@ Most of my work is in the field of computer vision and signal processing for emb
 I love mathematics and algorithms and was hoping to use this blog to share some of my thoughts and ideas on these topics.
 
 You can find my blog here : https://franciscormendes.github.io/
+LinkedIn : https://www.linkedin.com/in/franciscormendes/
 
 <!--
 **FranciscoRMendes/FranciscoRMendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
