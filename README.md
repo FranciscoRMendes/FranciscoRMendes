@@ -1,9 +1,11 @@
 ### Hi there 👋
- Welcome to my Github Repo. 
-I am a senior AI Engineer at Renesas Electronics America. In my current role I focus primarily on implementing deep neural networks on embedded systems.
-Most of my work is in the field of computer vision and signal processing for embedded systems. 
+I'm Francisco — a machine learning engineer and applied statistician based in Chicago.
 
-I love mathematics and algorithms and was hoping to use this blog to share some of my thoughts and ideas on these topics.
+My work sits at the intersection of statistical theory and production systems. I’ve spent the last decade building ML in environments where the math has to work and the code has to ship: embedded microcontrollers with 512 kB of memory, real-time sensor pipelines for autonomous vehicles, and two-sided marketplace models at Lyft scale.
+
+Currently I’m a Staff ML Engineer at Lyft, working on marketplace optimisation — price elasticity, incentive targeting, driver supply forecasting, and graph-based lookalike models over the Lyft ride network. This work powers Lyft Ads.
+
+Before that I was at Renesas Electronics / Reality AI deploying compressed neural networks (INT8 quantisation, low-rank factorisation) onto automotive-grade hardware. And before that, BCG and Deloitte, building production C++ inference pipelines for industrial clients.
 
 You can find my blog here : https://franciscormendes.github.io/
 LinkedIn : https://www.linkedin.com/in/franciscormendes/
