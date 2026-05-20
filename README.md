@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Francisco — a machine learning engineer and applied statistician based in Chicago.
+I'm Francisco Romaldo — a machine learning engineer and applied statistician based in Chicago.
 
 My work sits at the intersection of statistical theory and production systems. I’ve spent the last decade building ML in environments where the math has to work and the code has to ship: embedded microcontrollers with 512 kB of memory, real-time sensor pipelines for autonomous vehicles, and two-sided marketplace models at Lyft scale.
 
